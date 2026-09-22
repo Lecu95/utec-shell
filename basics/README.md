@@ -14,3 +14,4 @@
 * `15-lets_move`: Moves all files starting with an uppercase letter to /tmp/u.
 * `16-clean_emacs`: Deletes all files in the current working directory that end with ~.
 * `17-tree`: Creates the nested directory structure welcome/to/school in the current working directory.
+* `5-listfilesdigitonly`: Displays current directory contents in long format with numeric user/group IDs, including hidden files.
