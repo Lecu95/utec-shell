@@ -9,3 +9,4 @@
 * `7-everybody`: Adds execute permission to the owner, group owner, and other users for the file hello without using commas.
 * `8-James_Bond`: Sets permissions of hello to no permissions for owner and group, and full permissions for others.
 * `9-John_Doe`: Sets the mode of the file hello to -rwxr-x-wx.
+* `10-mirror_permissions`: Sets the permissions of hello to match the permissions of olleh.
