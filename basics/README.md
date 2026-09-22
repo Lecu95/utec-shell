@@ -15,3 +15,4 @@
 * `16-clean_emacs`: Deletes all files in the current working directory that end with ~.
 * `17-tree`: Creates the nested directory structure welcome/to/school in the current working directory.
 * `5-listfilesdigitonly`: Displays current directory contents in long format with numeric user/group IDs, including hidden files.
+* `8-firstdelete`: Deletes the file betty from /tmp/my_first_directory.
