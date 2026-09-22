@@ -16,3 +16,4 @@
 * `17-tree`: Creates the nested directory structure welcome/to/school in the current working directory.
 * `5-listfilesdigitonly`: Displays current directory contents in long format with numeric user/group IDs, including hidden files.
 * `8-firstdelete`: Deletes the file betty from /tmp/my_first_directory.
+* `14-copy_html`: Copies all HTML files from the current directory to the parent directory if they do not exist or are newer.
