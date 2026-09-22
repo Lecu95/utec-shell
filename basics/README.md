@@ -12,3 +12,4 @@
 * `12-file_type`: Prints the type of the file named iamafile located in /tmp.
 * `13-symbolic_link`: Creates a symbolic link to /bin/ls named __ls__ in the current working directory.
 * `15-lets_move`: Moves all files starting with an uppercase letter to /tmp/u.
+* `16-clean_emacs`: Deletes all files in the current working directory that end with ~.
