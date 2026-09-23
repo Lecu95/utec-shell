@@ -7,3 +7,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `5-firstlines`: Displays the first 10 lines of /etc/passwd.
 * `6-third_line`: Displays the third line of the file iacta in the working directory.
 * `7-file`: Creates a file with a complex name containing special characters.
+* `7-file`: Creates a file with a complex name containing special characters.
