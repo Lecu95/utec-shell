@@ -19,3 +19,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `15-countthatword`: Displays the number of lines containing the pattern 'bin' in /etc/passwd.
 * `16-whatsnext`: Displays lines containing the pattern 'root' and 3 lines after them in /etc/passwd.
 * `17-hidethisword`: Displays all lines in /etc/passwd that do not contain the pattern 'bin'.
+* `18-letteronly`: Displays all lines in /etc/ssh/sshd_config starting with a letter.
