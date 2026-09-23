@@ -11,3 +11,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `7-file`: Creates a file with a complex name containing special characters.
 * `8-cwd_state`: Writes the result of ls -la to the file ls_cwd_content.
 * `9-duplicate_last_line`: Duplicates the last line of the file iacta.
+* `10-no_more_js`: Deletes all regular files with a .js extension in the current directory and subdirectories.
