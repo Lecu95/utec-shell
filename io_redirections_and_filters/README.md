@@ -21,3 +21,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `17-hidethisword`: Displays all lines in /etc/passwd that do not contain the pattern 'bin'.
 * `18-letteronly`: Displays all lines in /etc/ssh/sshd_config starting with a letter.
 * `19-AZ`: Replaces all characters 'A' and 'c' with 'Z' and 'e' respectively from standard input.
+* `20-hiago`: Removes all letters 'c' and 'C' from standard input.
