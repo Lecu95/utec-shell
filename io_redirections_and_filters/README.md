@@ -9,3 +9,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `7-file`: Creates a file with a complex name containing special characters.
 * `7-file`: Creates a file with a complex name containing special characters.
 * `7-file`: Creates a file with a complex name containing special characters.
+* `8-cwd_state`: Writes the result of ls -la to the file ls_cwd_content.
