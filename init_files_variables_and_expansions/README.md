@@ -6,3 +6,4 @@
 * `6-create_local_variable`: Script que crea una variable local llamada BEST con el valor School.
 * `7-create_global_variable`: Script que crea una variable global llamada BEST con el valor School.
 * `8-true_knowledge`: Script que imprime la suma de 128 y la variable TRUEKNOWLEDGE.
+* `9-divide_and_rule`: Script que imprime el resultado de la división entre POWER y DIVIDE.
