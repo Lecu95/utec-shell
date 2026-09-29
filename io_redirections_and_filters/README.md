@@ -30,3 +30,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `23-empty_casks`: Encuentra y muestra solo los nombres de archivos y directorios vacíos en el directorio actual y subdirectorios.
 * `25-acrostic`: Decodifica acrósticos.
 * `26-the_biggest_fan`: Muestra los 11 hosts con más solicitudes.
+* `24-gifs`: Lista todos los archivos .gif sin extensión ordenados.
