@@ -27,3 +27,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `2-hellofile`: Script que muestra el contenido del archivo /etc/passwd.
 * `7-file`: Script que crea un archivo con un nombre específico que contiene 'Best School'.
 * `7-file`: Script que crea un archivo con un nombre específico que contiene 'Best School'.
+* `23-empty_casks`: Encuentra y muestra solo los nombres de archivos y directorios vacíos en el directorio actual y subdirectorios.
