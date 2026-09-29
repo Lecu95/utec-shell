@@ -24,3 +24,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `20-hiago`: Removes all letters 'c' and 'C' from standard input.
 * `21-reverse`: Reverses standard input.
 * `22-users_and_homes`: Displays all users and their home directories from /etc/passwd, sorted by user.
+* `2-hellofile`: Script que muestra el contenido del archivo /etc/passwd.
