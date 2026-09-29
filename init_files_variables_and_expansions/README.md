@@ -9,3 +9,4 @@
 * `9-divide_and_rule`: Script que imprime el resultado de la división entre POWER y DIVIDE.
 * `10-love_exponent_breath`: Script que calcula la potencia de BREATH elevado a LOVE.
 * `11-binary_to_decimal`: Script que convierte un número binario en la variable BINARY a formato decimal.
+* `12-combinations`: Script que imprime todas las combinaciones de dos letras excepto oo.
