@@ -29,3 +29,4 @@ This directory contains shell scripts for I/O redirections and filters tasks.
 * `7-file`: Script que crea un archivo con un nombre específico que contiene 'Best School'.
 * `23-empty_casks`: Encuentra y muestra solo los nombres de archivos y directorios vacíos en el directorio actual y subdirectorios.
 * `25-acrostic`: Decodifica acrósticos.
+* `26-the_biggest_fan`: Muestra los 11 hosts con más solicitudes.
