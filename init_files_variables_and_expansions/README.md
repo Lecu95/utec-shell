@@ -10,3 +10,4 @@
 * `10-love_exponent_breath`: Script que calcula la potencia de BREATH elevado a LOVE.
 * `11-binary_to_decimal`: Script que convierte un número binario en la variable BINARY a formato decimal.
 * `12-combinations`: Script que imprime todas las combinaciones de dos letras excepto oo.
+* `13-print_float`: Script que imprime un número con dos decimales desde la variable NUM.
