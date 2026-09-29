@@ -12,3 +12,4 @@
 * `12-combinations`: Script que imprime todas las combinaciones de dos letras excepto oo.
 * `13-print_float`: Script que imprime un número con dos decimales desde la variable NUM.
 * `14-decimal_to_hexadecimal`: Script que convierte un número decimal en la variable DECIMAL a hexadecimal.
+* `2-path`: Script que añade /action al final de la variable PATH.
